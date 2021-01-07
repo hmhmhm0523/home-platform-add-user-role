@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/home-platform-add-user-role/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/home-platform-add-user-role/static/js/main.89d734f3.chunk.js",
+    "main.js.map": "/home-platform-add-user-role/static/js/main.89d734f3.chunk.js.map",
+    "runtime-main.js": "/home-platform-add-user-role/static/js/runtime-main.6cfcad8e.js",
+    "runtime-main.js.map": "/home-platform-add-user-role/static/js/runtime-main.6cfcad8e.js.map",
+    "static/js/2.2c3a0e09.chunk.js": "/home-platform-add-user-role/static/js/2.2c3a0e09.chunk.js",
+    "static/js/2.2c3a0e09.chunk.js.map": "/home-platform-add-user-role/static/js/2.2c3a0e09.chunk.js.map",
+    "static/js/3.e9558104.chunk.js": "/home-platform-add-user-role/static/js/3.e9558104.chunk.js",
+    "static/js/3.e9558104.chunk.js.map": "/home-platform-add-user-role/static/js/3.e9558104.chunk.js.map",
+    "index.html": "/home-platform-add-user-role/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/home-platform-add-user-role/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2c3a0e09.chunk.js.LICENSE.txt": "/home-platform-add-user-role/static/js/2.2c3a0e09.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/home-platform-add-user-role/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cfcad8e.js",
+    "static/js/2.2c3a0e09.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.89d734f3.chunk.js"
+  ]
+}
