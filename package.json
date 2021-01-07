@@ -2,7 +2,7 @@
   "name": "home-platform-add-user-role",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hmhmhm0523.github.io/home-platform-add-user-role",
+  "homepage": "http://hmhmhm0523.github.io/home-platform-add-user-role",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
