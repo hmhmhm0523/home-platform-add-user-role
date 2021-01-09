@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/home-platform-add-user-role/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/home-platform-add-user-role/static/js/main.89d734f3.chunk.js",
-    "main.js.map": "/home-platform-add-user-role/static/js/main.89d734f3.chunk.js.map",
-    "runtime-main.js": "/home-platform-add-user-role/static/js/runtime-main.6cfcad8e.js",
-    "runtime-main.js.map": "/home-platform-add-user-role/static/js/runtime-main.6cfcad8e.js.map",
-    "static/js/2.2c3a0e09.chunk.js": "/home-platform-add-user-role/static/js/2.2c3a0e09.chunk.js",
-    "static/js/2.2c3a0e09.chunk.js.map": "/home-platform-add-user-role/static/js/2.2c3a0e09.chunk.js.map",
-    "static/js/3.e9558104.chunk.js": "/home-platform-add-user-role/static/js/3.e9558104.chunk.js",
-    "static/js/3.e9558104.chunk.js.map": "/home-platform-add-user-role/static/js/3.e9558104.chunk.js.map",
+    "main.css": "/home-platform-add-user-role/static/css/main.b5c9044c.chunk.css",
+    "main.js": "/home-platform-add-user-role/static/js/main.1fd0198a.chunk.js",
+    "main.js.map": "/home-platform-add-user-role/static/js/main.1fd0198a.chunk.js.map",
+    "runtime-main.js": "/home-platform-add-user-role/static/js/runtime-main.0f3dfdda.js",
+    "runtime-main.js.map": "/home-platform-add-user-role/static/js/runtime-main.0f3dfdda.js.map",
+    "static/css/2.27175f2b.chunk.css": "/home-platform-add-user-role/static/css/2.27175f2b.chunk.css",
+    "static/js/2.ede59b1e.chunk.js": "/home-platform-add-user-role/static/js/2.ede59b1e.chunk.js",
+    "static/js/2.ede59b1e.chunk.js.map": "/home-platform-add-user-role/static/js/2.ede59b1e.chunk.js.map",
+    "static/js/3.d9b1f68f.chunk.js": "/home-platform-add-user-role/static/js/3.d9b1f68f.chunk.js",
+    "static/js/3.d9b1f68f.chunk.js.map": "/home-platform-add-user-role/static/js/3.d9b1f68f.chunk.js.map",
     "index.html": "/home-platform-add-user-role/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/home-platform-add-user-role/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2c3a0e09.chunk.js.LICENSE.txt": "/home-platform-add-user-role/static/js/2.2c3a0e09.chunk.js.LICENSE.txt",
+    "static/css/2.27175f2b.chunk.css.map": "/home-platform-add-user-role/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.b5c9044c.chunk.css.map": "/home-platform-add-user-role/static/css/main.b5c9044c.chunk.css.map",
+    "static/js/2.ede59b1e.chunk.js.LICENSE.txt": "/home-platform-add-user-role/static/js/2.ede59b1e.chunk.js.LICENSE.txt",
+    "static/media/ConnectWiseTable.styles.scss": "/home-platform-add-user-role/static/media/Chevron Right Small.1c49cecb.svg",
+    "static/media/FilterBox.styles.scss": "/home-platform-add-user-role/static/media/Filter.59398592.svg",
+    "static/media/NavigationAppContent.styles.scss": "/home-platform-add-user-role/static/media/MFTorchTalkGroupBlue.ab91c4cf.png",
+    "static/media/SearchBar.styles.scss": "/home-platform-add-user-role/static/media/Search.20c0b175.svg",
     "static/media/logo.6ce24c58.svg": "/home-platform-add-user-role/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cfcad8e.js",
-    "static/js/2.2c3a0e09.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.89d734f3.chunk.js"
+    "static/js/runtime-main.0f3dfdda.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.ede59b1e.chunk.js",
+    "static/css/main.b5c9044c.chunk.css",
+    "static/js/main.1fd0198a.chunk.js"
   ]
 }
