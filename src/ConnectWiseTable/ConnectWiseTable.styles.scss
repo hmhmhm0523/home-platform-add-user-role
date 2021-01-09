@@ -1,0 +1,71 @@
+.ConnectWiseTableWrapper {
+    table {
+        width: 100%;
+        thead {
+            border-bottom: 1px solid #e6e6e6;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            color: #5e5e5e;
+            font-weight: bold;
+            font-size: 14px;
+            height: 48px;
+            text-transform: uppercase;
+            tr {
+                text-align: left;
+                th {
+                    padding: 12px 24px;
+                }
+            }
+        }
+        tbody {
+            td {
+                border-top: 1px solid #e6e6e6;
+
+                padding: 12px 24px;
+            }
+        }
+    }
+    .Pagination {
+        display: flex;
+        align-items: center;
+        box-shadow: 0 0px 4px rgba(0, 0, 0, 0.3);
+        z-index: 1;
+        padding: 12px 24px;
+
+        .Pageination-description {
+            opacity: 0.6;
+        }
+
+        .PageButton {
+            width: 24px;
+            height: 24px;
+            border: none;
+            background-repeat: no-repeat;
+            opacity: 0.6;
+            
+            &:hover {
+                opacity: 1;
+                background-color: transparent;
+            }
+            &:disabled{
+                opacity: 0.2;
+            }
+            &.PreviousPageButton {
+                background-image: url("../Images/Chevron\ Left\ Small.svg");
+            }
+            &.NextPageButton {
+                background-image: url("../Images/Chevron\ Right\ Small.svg");
+            }
+        }
+
+        .Pagination-bookmarks {
+            background-color: #e3f1fc;
+            padding: 0 15px;
+            margin: 0 5px;
+            height: 40px;
+            color: #212121;
+            border-radius: 4px;
+            line-height: 40px;
+        }
+    }
+}

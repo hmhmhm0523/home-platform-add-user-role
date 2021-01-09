@@ -1,0 +1,43 @@
+.SearchBarWrapper {
+    .form-textField {
+        max-width: 292px;
+        min-width: 125px;
+        height: 40px;
+        border-radius: 4px;
+        border: solid 1px #b0b0b0;
+        background-color: #ffffff;
+    }
+
+    .CwTextField-textField {
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 1em;
+        background-color: transparent;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        width: 100%;
+        padding: 13px 16px;
+        color: #4a4a4a;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+
+        &:focus {
+            border-color: #026ccf;
+        }
+    }
+
+    .FilterConditions-searchIcon {
+        padding-right: 40px;
+        background: url("../Images/Search.svg") no-repeat 95% 10px;
+        background-size: 20px 20px;
+        margin-left: 20px;
+        width: 292px;
+    }
+
+    input:focus,
+    select:focus,
+    textarea:focus,
+    button:focus {
+        outline: none;
+    }
+}

@@ -1,0 +1,60 @@
+@import "variables.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #4a4a4a;
+  -webkit-font-smoothing: antialiased;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  overflow: hidden;
+
+  #root {
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.App {
+  display: flex;
+  height: 100%;
+  width: 100%;
+
+  .NavigationAppContentWrapper {
+    flex-grow: 1;
+
+  }
+
+  .Hidden {
+    display: none;
+  }
+
+  .Spacer {
+    flex-grow: 1;
+  }
+
+  button {
+    color: $primaryColor;
+    align-items: center;
+    font-weight: 500;
+    cursor: pointer;
+    height: 36px;
+    padding: 0px 16px;
+    font-size: 1em;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 4px;
+    border-color: $primaryColor;
+
+    &:hover {
+      background-color: $primaryColor;
+      color: #FFFFFF;
+    }
+  }
+}
