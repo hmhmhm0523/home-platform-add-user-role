@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Flag / Intel AMT</title>
+    <defs>
+        <path d="M4.45,9.3 L2,15.7 L3.45,15.7 L3.95,14.25 L6.35,14.25 L6.85,15.7 L8.35,15.7 L5.95,9.3 L4.45,9.3 L4.45,9.3 Z M4.3,13.2 L5.15,10.85 L5.95,13.2 L4.3,13.2 Z M13.85,9.3 L15.85,9.3 L15.85,15.7 L14.5,15.7 L14.5,11.15 L12.9,15.7 L11.8,15.7 L10.2,11.2 L10.2,15.7 L8.85,15.7 L8.85,9.3 L10.85,9.3 L12.35,13.7 L13.85,9.3 Z M21.9,9.3 L21.9,10.5 L19.95,10.5 L19.95,15.7 L18.5,15.7 L18.5,10.45 L16.55,10.45 L16.55,9.25 L21.9,9.25 L21.9,9.3 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Flag-/-Intel-AMT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

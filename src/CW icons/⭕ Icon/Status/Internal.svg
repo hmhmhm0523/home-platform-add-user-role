@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Status/Internal</title>
+    <defs>
+        <path d="M20.7,11.3 L12.7,3.3 C12.3,2.9 11.7,2.9 11.3,3.3 L3.3,11.3 C2.9,11.7 2.9,12.3 3.3,12.7 C3.7,13.1 4.3,13.1 4.7,12.7 L5,12.4 L5,20 C5,20.55 5.45,21 6,21 L18,21 C18.55,21 19,20.55 19,20 L19,12.4 L19.3,12.7 C19.5,12.9 19.75,13 20,13 C20.25,13 20.5,12.9 20.7,12.7 C21.1,12.3 21.1,11.7 20.7,11.3 Z M11,18.5 L11,16 L13,16 L13,18.5 L11,18.5 Z M17,19 L15,19 L15,15 C15,14.45 14.55,14 14,14 L10,14 C9.45,14 9,14.45 9,15 L9,19 L7,19 L7,10.4 L12,5.4 L17,10.4 L17,19 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Status/Internal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

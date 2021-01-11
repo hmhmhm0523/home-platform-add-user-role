@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Logout</title>
+    <defs>
+        <path d="M12.5,20 C12.5,20.55 12.05,21 11.5,21 L3,21 C2.45,21 2,20.55 2,20 L2,4 C2,3.45 2.45,3 3,3 L11.5,3 C12.05,3 12.5,3.45 12.5,4 C12.5,4.55 12.05,5 11.5,5 L4,5 L4,19 L11.5,19 C12.05,19 12.5,19.45 12.5,20 Z M19.7,11.3 L16.7,8.3 C16.3,7.9 15.7,7.9 15.3,8.3 C14.9,8.7 14.9,9.3 15.3,9.7 L16.6,11 L9,11 C8.45,11 8,11.45 8,12 C8,12.55 8.45,13 9,13 L16.55,13 L15.25,14.3 C14.85,14.7 14.85,15.3 15.25,15.7 C15.5,15.9 15.75,16 16,16 C16.25,16 16.5,15.9 16.7,15.7 L19.7,12.7 C19.9,12.5 20,12.25 20,12 C20,11.75 19.9,11.45 19.7,11.3 L19.7,11.3 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Logout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

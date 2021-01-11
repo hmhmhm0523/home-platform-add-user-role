@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Status/Installing</title>
+    <defs>
+        <path d="M5,20 L19,20 C19.55,20 20,20.45 20,21 C20,21.55 19.55,22 19,22 L5,22 C4.45,22 4,21.55 4,21 C4,20.45 4.45,20 5,20 Z M7.3,12.3 C6.9,12.7 6.9,13.3 7.3,13.7 L11.3,17.7 C11.5,17.9 11.75,18 12,18 C12.25,18 12.5,17.9 12.7,17.7 L16.7,13.7 C17.1,13.3 17.1,12.7 16.7,12.3 C16.3,11.9 15.7,11.9 15.3,12.3 L13,14.6 L12.95,3 C12.95,2.45 12.5,2 11.95,2 C11.4,2 10.95,2.45 10.95,3 L11,14.6 L8.7,12.3 C8.3,11.9 7.7,11.9 7.3,12.3 L7.3,12.3 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Status/Installing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

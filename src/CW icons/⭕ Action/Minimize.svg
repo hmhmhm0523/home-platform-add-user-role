@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Minimize</title>
+    <defs>
+        <path d="M21,12 C21,12.55 20.55,13 20,13 L4,13 C3.45,13 3,12.55 3,12 C3,11.45 3.45,11 4,11 L20,11 C20.55,11 21,11.45 21,12 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Minimize" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

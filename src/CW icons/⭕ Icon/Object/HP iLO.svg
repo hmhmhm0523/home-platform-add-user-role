@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Object/HP iLO</title>
+    <defs>
+        <path d="M17.5,7 C15,7 13,8.95 13,11.4 L13,13.1 C13,15.55 15,17.5 17.5,17.5 C20,17.5 22,15.55 22,13.1 L22,11.4 C22,8.95 20,7 17.5,7 Z M20,13.1 C20,14.4 18.9,15.5 17.5,15.5 C16.1,15.5 15,14.4 15,13.1 L15,11.4 C15,10.1 16.1,9 17.5,9 C18.9,9 20,10.1 20,11.4 L20,13.1 Z M8,7 L8,15.5 L12,15.5 L12,17.5 L6,17.5 L6,7 L8,7 Z M4,17.5 L2,17.5 L2,10 L4,10 L4,17.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Object/HP-iLO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

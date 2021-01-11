@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Text Color</title>
+    <defs>
+        <path d="M6.6,16.9 C7.1,17.1 7.7,16.85 7.9,16.35 L8.9,13.95 L15.05,13.95 L16.05,16.35 C16.2,16.75 16.6,16.95 16.95,16.95 C17.1,16.95 17.2,16.95 17.35,16.85 C17.85,16.65 18.1,16.05 17.9,15.55 L12.9,3.55 C12.75,3.25 12.4,3 12,3 C11.6,3 11.25,3.25 11.1,3.6 L6.1,15.6 C5.85,16.1 6.1,16.7 6.6,16.9 Z M12,6.6 L14.25,12 L9.75,12 L12,6.6 Z M24,20 L24,24 L0,24 L0,20 L24,20 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Text-Color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Application / Quosal BI</title>
+    <defs>
+        <path d="M7.25,12 L3.75,12 C3.35,12 3,12.35 3,12.75 L3,19.25 C3,19.65 3.35,20 3.75,20 L7.25,20 C7.65,20 8,19.65 8,19.25 L8,12.75 C8,12.35 7.65,12 7.25,12 Z M6.5,18.5 L4.5,18.5 L4.5,13.5 L6.5,13.5 L6.5,18.5 Z M20.25,8.5 L16.75,8.5 C16.35,8.5 16,8.85 16,9.25 L16,19.25 C16,19.65 16.35,20 16.75,20 L20.25,20 C20.65,20 21,19.65 21,19.25 L21,9.25 C21,8.85 20.65,8.5 20.25,8.5 Z M19.5,18.5 L17.5,18.5 L17.5,10 L19.5,10 L19.5,18.5 Z M13.75,4 L10.25,4 C9.85,4 9.5,4.35 9.5,4.75 L9.5,19.25 C9.5,19.65 9.85,20 10.25,20 L13.75,20 C14.15,20 14.5,19.65 14.5,19.25 L14.5,4.75 C14.5,4.35 14.15,4 13.75,4 Z M13,18.5 L11,18.5 L11,5.5 L13,5.5 L13,18.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Application-/-Quosal-BI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

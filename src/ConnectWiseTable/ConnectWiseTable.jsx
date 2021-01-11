@@ -216,7 +216,7 @@ function ConnectWiseTable() {
 
   const data = React.useMemo(() => [
     {
-      name: "Marguerite McBride",
+      name: "Marguerite McBride", 
       email: "ashtyn_larkin@gmail.com",
       role: "IAM Admin, Product Admin",
       connectedApps: "AutoMate, Control, Manage, Sell, Command",

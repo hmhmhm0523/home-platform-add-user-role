@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Application / Network</title>
+    <defs>
+        <path d="M22,15.5 L22,19.5 C22,19.75 21.8,20 21.5,20 L17.5,20 C17.25,20 17,19.8 17,19.5 L17,15.5 C17,15.25 17.2,15 17.5,15 L18.5,15 L18.5,13 L13,13 L13,15 L14,15 C14.25,15 14.5,15.2 14.5,15.5 L14.5,19.5 C14.5,19.75 14.3,20 14,20 L10,20 C9.75,20 9.5,19.8 9.5,19.5 L9.5,15.5 C9.5,15.25 9.7,15 10,15 L11,15 L11,13 L5.5,13 L5.5,15 L6.5,15 C6.75,15 7,15.2 7,15.5 L7,19.5 C7,19.75 6.8,20 6.5,20 L2.5,20 C2.25,20 2,19.8 2,19.5 L2,15.5 C2,15.25 2.2,15 2.5,15 L3.5,15 L3.5,12 C3.5,11.45 3.95,11 4.5,11 L11,11 L11,9 L10,9 C9.75,9 9.5,8.8 9.5,8.5 L9.5,4.5 C9.5,4.25 9.7,4 10,4 L14,4 C14.25,4 14.5,4.2 14.5,4.5 L14.5,8.5 C14.5,8.75 14.3,9 14,9 L13,9 L13,11 L19.5,11 C20.05,11 20.5,11.45 20.5,12 L20.5,15 L21.5,15 C21.8,15 22,15.2 22,15.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Application-/-Network" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

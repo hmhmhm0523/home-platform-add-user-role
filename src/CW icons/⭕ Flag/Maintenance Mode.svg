@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Flag / Maintenance Mode</title>
+    <defs>
+        <path d="M4.5,18.75 L4.5,19.3 C4.5,19.7 4.85,20.05 5.25,20.05 L18.8,20.05 C19.2,20.05 19.55,19.7 19.55,19.3 L19.55,18.75 C19.55,18.35 19.2,18 18.8,18 L18,18 L18,17.75 L15,4.75 C14.85,4.3 14.45,4 14,4 L10,4 C9.55,4 9.15,4.3 9.05,4.75 L6.05,17.75 L6.05,18 L5.3,18 C4.85,18 4.5,18.35 4.5,18.75 L4.5,18.75 Z M13.2,6 L13.9,9 L10.1,9 L10.8,6 L13.2,6 L13.2,6 Z M9.2,13 L14.85,13 L15.95,18 L8.05,18 L9.2,13 L9.2,13 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Flag-/-Maintenance-Mode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

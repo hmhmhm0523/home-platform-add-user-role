@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Underlined </title>
+    <defs>
+        <path d="M19,20 C19,20.55 18.55,21 18,21 L6,21 C5.45,21 5,20.55 5,20 C5,19.45 5.45,19 6,19 L18,19 C18.55,19 19,19.45 19,20 Z M12,17 C15.3,17 18,14.3 18,11 L18,4.25 C18,3.55 17.45,3 16.75,3 C16.05,3 15.5,3.55 15.5,4.25 L15.5,11 C15.5,12.95 13.95,14.5 12,14.5 C10.05,14.5 8.5,12.95 8.5,11 L8.5,4.25 C8.5,3.55 7.95,3 7.25,3 C6.55,3 6,3.55 6,4.25 L6,11 C6,14.3 8.7,17 12,17 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Underlined-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

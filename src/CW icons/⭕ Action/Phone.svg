@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Phone</title>
+    <defs>
+        <path d="M20.7,15.2 L16.7,11.2 C16.3,10.8 15.7,10.8 15.3,11.2 L13.35,13.15 L10.8,10.6 L12.75,8.65 C13.15,8.25 13.15,7.65 12.75,7.25 L8.75,3.25 C8.35,2.85 7.75,2.85 7.35,3.25 L4.35,6.25 C2.5,8.1 2.5,11.1 4.35,12.95 L11,19.6 C11.9,20.5 13.1,21 14.35,21 C15.6,21 16.8,20.5 17.7,19.6 L20.7,16.6 C21.1,16.25 21.1,15.6 20.7,15.2 L20.7,15.2 Z M16.3,18.2 C15.8,18.7 15.1,19 14.35,19 C13.6,19 12.9,18.7 12.4,18.2 L5.8,11.55 C4.75,10.5 4.75,8.75 5.8,7.65 L8.1,5.35 L10.65,7.9 L8.7,9.85 C8.3,10.25 8.3,10.85 8.7,11.25 L12.7,15.25 C13.1,15.65 13.7,15.65 14.1,15.25 L16.05,13.3 L18.6,15.85 L16.3,18.2 L16.3,18.2 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

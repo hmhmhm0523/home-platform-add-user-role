@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Status/Success</title>
+    <defs>
+        <path d="M3.3,11.8 C3.7,11.4 4.3,11.4 4.7,11.8 L9,16.1 L19.3,5.8 C19.7,5.4 20.3,5.4 20.7,5.8 C21.1,6.2 21.1,6.8 20.7,7.2 L9.7,18.2 C9.5,18.4 9.25,18.5 9,18.5 C8.75,18.5 8.5,18.4 8.3,18.2 L3.3,13.2 C2.9,12.8 2.9,12.2 3.3,11.8 L3.3,11.8 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Status/Success" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

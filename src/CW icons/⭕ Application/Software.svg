@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Application / Software</title>
+    <defs>
+        <path d="M16,17 C16,17.55 15.55,18 15,18 C14.45,18 14,17.55 14,17 C14,16.45 14.45,16 15,16 C15.55,16 16,16.45 16,17 Z M20,7.5 C20,4.45 17.55,2 14.5,2 L5,2 C4.45,2 4,2.45 4,3 L4,21 C4,21.55 4.45,22 5,22 L8.5,22 C9.05,22 9.5,21.55 9.5,21 C9.5,20.45 9.05,20 8.5,20 L6,20 L6,4 L14.5,4 C16.45,4 18,5.55 18,7.5 L18,10 C18,10.55 18.45,11 19,11 C19.55,11 20,10.55 20,10 L20,7.5 Z M15,21.75 C12.4,21.75 10.25,19.6 10.25,17 C10.25,14.4 12.4,12.25 15,12.25 C17.6,12.25 19.75,14.4 19.75,17 C19.75,19.6 17.6,21.75 15,21.75 Z M15,20.25 C16.8,20.25 18.25,18.8 18.25,17 C18.25,15.2 16.8,13.75 15,13.75 C13.2,13.75 11.75,15.2 11.75,17 C11.75,18.8 13.2,20.25 15,20.25 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Application-/-Software" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

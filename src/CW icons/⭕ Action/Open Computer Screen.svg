@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Open Computer Screen</title>
+    <defs>
+        <path d="M21,3 L3,3 C2.45,3 2,3.45 2,4 L2,18 C2,18.55 2.45,19 3,19 L11,19 L11,20 L9.5,20 C8.95,20 8.5,20.45 8.5,21 C8.5,21.55 8.95,22 9.5,22 L14.5,22 C15.05,22 15.5,21.55 15.5,21 C15.5,20.45 15.05,20 14.5,20 L13,20 L13,19 L20.95,19 C20.95,19 21,19 21,19 C21.55,19 22,18.55 22,18 L22,4 C22,3.45 21.55,3 21,3 Z M20,17 L4,17 L4,5 L20,5 L20,17 Z M17,10 L7,10 L7,8 L17,8 L17,10 Z M15,12 L17,12 L17,14 L15,14 L15,12 Z M11,12 L13,12 L13,14 L11,14 L11,12 Z M9,14 L7,14 L7,12 L9,12 L9,14 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Open-Computer-Screen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

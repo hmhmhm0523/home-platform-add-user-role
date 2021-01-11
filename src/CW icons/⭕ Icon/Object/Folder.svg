@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Object/Folder</title>
+    <defs>
+        <path d="M21,6 L11.4,6 L9.7,4.3 C9.5,4.1 9.25,4 9,4 L3,4 C2.45,4 2,4.45 2,5 L2,19 C2,19.55 2.45,20 3,20 L21,20 C21.55,20 22,19.55 22,19 L22,7 C22,6.45 21.55,6 21,6 Z M20,18 L4,18 L4,6 L8.6,6 L10.3,7.7 C10.5,7.9 10.75,8 11,8 L20,8 L20,18 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Object/Folder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

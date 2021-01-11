@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Application / Effective Policy</title>
+    <defs>
+        <path d="M6,9 C6,8.45 6.45,8 7,8 L17,8 C17.55,8 18,8.45 18,9 C18,9.55 17.55,10 17,10 L7,10 C6.45,10 6,9.55 6,9 Z M7,14 L17,14 C17.55,14 18,13.55 18,13 C18,12.45 17.55,12 17,12 L7,12 C6.45,12 6,12.45 6,13 C6,13.55 6.45,14 7,14 Z M22,4 L22,18 C22,18.55 21.55,19 21,19 L20.95,19 L13,19 L13,20 L14.5,20 C15.05,20 15.5,20.45 15.5,21 C15.5,21.55 15.05,22 14.5,22 L9.5,22 C8.95,22 8.5,21.55 8.5,21 C8.5,20.45 8.95,20 9.5,20 L11,20 L11,19 L3,19 C2.45,19 2,18.55 2,18 L2,4 C2,3.45 2.45,3 3,3 L21,3 C21.55,3 22,3.45 22,4 Z M20,5 L4,5 L4,17 L20,17 L20,5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Application-/-Effective-Policy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Bookmark</title>
+    <defs>
+        <path d="M19,2 L5,2 C4.45,2 4,2.45 4,3 L4,21 C4,21.4 4.25,21.75 4.6,21.9 C4.95,22.05 5.4,21.95 5.7,21.7 L12,15.4 L18.3,21.7 C18.5,21.9 18.75,22 19,22 C19.15,22 19.25,22 19.4,21.9 C19.75,21.75 20,21.4 20,21 L20,3 C20,2.45 19.55,2 19,2 Z M18,18.6 L12.7,13.3 C12.5,13.1 12.25,13 12,13 C11.75,13 11.5,13.1 11.3,13.3 L6,18.6 L6,4 L18,4 L18,18.6 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

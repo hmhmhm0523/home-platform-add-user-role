@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Paste</title>
+    <defs>
+        <path d="M21.7,10.8 L19.2,8.3 C19.15,8.25 19.05,8.2 19,8.15 L19,3 C19,2.45 18.55,2 18,2 L5,2 C4.45,2 4,2.45 4,3 L4,19 C4,19.55 4.45,20 5,20 L11,20 L11,21 C11,21.25 11.1,21.5 11.3,21.7 C11.5,21.9 11.75,22 12,22 L21,22 C21.55,22 22,21.55 22,21 L22,11.5 C22,11.25 21.9,11 21.7,10.8 Z M6,18 L6,4 L8,4 L8,5 C8,5.55 8.45,6 9,6 L14,6 C14.55,6 15,5.55 15,5 L15,4 L17,4 L17,8 L12,8 C11.45,8 11,8.45 11,9 L11,18 L6,18 Z M13,20 L13,10 L17,10 L17,12 C17,12.55 17.45,13 18,13 L20,13 L20,20 L13,20 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Paste" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Flag / Email Opened</title>
+    <defs>
+        <path d="M21.6,8.7 L12.6,2.2 C12.25,1.95 11.8,1.95 11.45,2.2 L2.45,8.7 C2.15,8.9 2,9.2 2,9.5 L2,21 C2,21.55 2.45,22 3,22 L21,22 C21.55,22 22,21.55 22,21 L22,9.5 C22,9.2 21.85,8.9 21.6,8.7 Z M4,11.65 L8.4,15.05 L4,18.75 L4,11.65 Z M10.35,16 L13.6,16 L18.35,20 L5.65,20 L10.35,16 Z M15.6,15.05 L20,11.65 L20,18.75 L15.6,15.05 Z M12,4.25 L19.4,9.6 L13.65,14 L10.35,14 L4.6,9.6 L12,4.25 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Flag-/-Email-Opened" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

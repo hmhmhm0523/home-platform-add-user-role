@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Insert Video</title>
+    <defs>
+        <path d="M21,4 L3,4 C2.45,4 2,4.45 2,5 L2,19 C2,19.55 2.45,20 3,20 L21,20 C21.55,20 22,19.55 22,19 L22,5 C22,4.45 21.55,4 21,4 Z M20,18 L4,18 L4,6 L20,6 L20,18 Z M10,14.5 L10,9.5 C10,9.15 10.2,8.8 10.55,8.6 C10.9,8.4 11.3,8.45 11.6,8.7 L15.1,11.2 C15.35,11.4 15.5,11.7 15.5,12 C15.5,12.3 15.35,12.65 15.1,12.8 L11.6,15.3 C11.4,15.45 11.2,15.5 11,15.5 C10.85,15.5 10.7,15.45 10.55,15.4 C10.2,15.2 10,14.85 10,14.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Insert-Video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

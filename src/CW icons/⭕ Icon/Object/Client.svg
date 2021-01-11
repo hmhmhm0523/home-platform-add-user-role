@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Object/Client</title>
+    <defs>
+        <path d="M12,11.5 C10.05,11.5 8.5,9.95 8.5,8 C8.5,6.05 10.05,4.5 12,4.5 C13.95,4.5 15.5,6.05 15.5,8 C15.5,9.95 13.95,11.5 12,11.5 Z M5.75,16 C5.6,16.2 5.5,16.4 5.5,16.65 L5.5,19 C5.5,19.55 5.95,20 6.5,20 L17.5,20 C18.05,20 18.5,19.55 18.5,19 L18.5,16.7 C18.5,16.45 18.4,16.2 18.25,16.05 C16.5,14.1 14.3,13 12,13 C9.7,13 7.5,14.05 5.75,16 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Object/Client" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

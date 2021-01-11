@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Date Picker</title>
+    <defs>
+        <path d="M4,21 L20,21 C20.55,21 21,20.55 21,20 L21,5 C21,4.45 20.55,4 20,4 L19,4 L19,3 C19,2.45 18.55,2 18,2 C17.45,2 17,2.45 17,3 L17,4 L7,4 L7,3 C7,2.45 6.55,2 6,2 C5.45,2 5,2.45 5,3 L5,4 L4,4 C3.45,4 3,4.45 3,5 L3,20 C3,20.55 3.45,21 4,21 Z M5,19 L5,9 L19,9 L19,19 L5,19 Z M15,11 L17,11 L17,13 L15,13 L15,11 Z M11,11 L13,11 L13,13 L11,13 L11,11 Z M7,11 L9,11 L9,13 L7,13 L7,11 Z M15,15 L17,15 L17,17 L15,17 L15,15 Z M11,15 L13,15 L13,17 L11,17 L11,15 Z M7,15 L9,15 L9,17 L7,17 L7,15 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Date-Picker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Download</title>
+    <defs>
+        <path d="M6,17 L6,20 L18,20 L18,17 C18,16.45 18.45,16 19,16 C19.55,16 20,16.45 20,17 L20,21 C20,21.55 19.55,22 19,22 L5,22 C4.45,22 4,21.55 4,21 L4,17 C4,16.45 4.45,16 5,16 C5.55,16 6,16.45 6,17 Z M7.3,12.3 C6.9,12.7 6.9,13.3 7.3,13.7 L11.3,17.7 C11.5,17.9 11.75,18 12,18 C12.25,18 12.5,17.9 12.7,17.7 L16.7,13.7 C17.1,13.3 17.1,12.7 16.7,12.3 C16.3,11.9 15.7,11.9 15.3,12.3 L13,14.6 L12.95,3 C12.95,2.45 12.5,2 11.95,2 C11.4,2 10.95,2.45 10.95,3 L11,14.6 L8.7,12.3 C8.3,11.9 7.7,11.9 7.3,12.3 L7.3,12.3 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Download" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

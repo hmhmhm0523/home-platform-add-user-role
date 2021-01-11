@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Start</title>
+    <defs>
+        <path d="M17.55,11.15 L9.55,6.15 C9.25,5.95 8.85,5.95 8.55,6.1 C8.25,6.3 8.05,6.6 8.05,6.95 L8.05,16.95 C8.05,17.3 8.25,17.65 8.55,17.8 C8.7,17.9 8.85,17.95 9.05,17.95 C9.25,17.95 9.4,17.9 9.6,17.8 L17.6,12.8 C17.9,12.6 18.05,12.3 18.05,11.95 C18.05,11.6 17.8,11.35 17.55,11.15 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Start" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

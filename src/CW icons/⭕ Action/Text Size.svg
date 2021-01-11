@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Text Size </title>
+    <defs>
+        <path d="M12,10.5 C12,11.35 11.35,12 10.5,12 L9,12 L9,17.5 C9,18.35 8.35,19 7.5,19 C6.65,19 6,18.35 6,17.5 L6,12 L4.5,12 C3.65,12 3,11.35 3,10.5 C3,9.65 3.65,9 4.5,9 L10.5,9 C11.35,9 12,9.65 12,10.5 Z M20.5,4 L10.5,4 C9.65,4 9,4.65 9,5.5 C9,6.35 9.65,7 10.5,7 L14,7 L14,17.5 C14,18.35 14.65,19 15.5,19 C16.35,19 17,18.35 17,17.5 L17,7 L20.5,7 C21.35,7 22,6.35 22,5.5 C22,4.65 21.35,4 20.5,4 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Text-Size-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

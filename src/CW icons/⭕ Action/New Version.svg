@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / New Version</title>
+    <defs>
+        <path d="M11,21 C11,21.55 10.55,22 10,22 L5,22 C4.75,22 4.5,21.9 4.3,21.7 C4.1,21.5 4,21.25 4,21 L4,3 C4,2.45 4.45,2 5,2 L15.5,2 C15.6,2 15.65,2 15.75,2.05 C15.95,2.1 16.1,2.2 16.2,2.3 L19.7,5.8 C19.9,6 20,6.25 20,6.5 L20,11 C20,11.55 19.55,12 19,12 C18.45,12 18,11.55 18,11 L18,8 L15,8 C14.45,8 14,7.55 14,7 L14,4 L6,4 L6,20 L10,20 C10.55,20 11,20.45 11,21 Z M20,16.5 L17.5,16.5 L17.5,14 C17.5,13.45 17.05,13 16.5,13 C15.95,13 15.5,13.45 15.5,14 L15.5,16.5 L13,16.5 C12.45,16.5 12,16.95 12,17.5 C12,18.05 12.45,18.5 13,18.5 L15.5,18.5 L15.5,21 C15.5,21.55 15.95,22 16.5,22 C17.05,22 17.5,21.55 17.5,21 L17.5,18.5 L20,18.5 C20.55,18.5 21,18.05 21,17.5 C21,16.95 20.55,16.5 20,16.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-New-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

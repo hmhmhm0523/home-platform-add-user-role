@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Flag / Flag</title>
+    <defs>
+        <path d="M19,4 L13,4 L13,3 C13,2.45 12.55,2 12,2 L5,2 C4.45,2 4,2.45 4,3 L4,21 C4,21.55 4.45,22 5,22 C5.55,22 6,21.55 6,21 L6,13 L11,13 L11,14 C11,14.55 11.45,15 12,15 L19,15 C19.55,15 20,14.55 20,14 L20,5 C20,4.45 19.55,4 19,4 Z M18,13 L13,13 L13,12 C13,11.45 12.55,11 12,11 L6,11 L6,4 L11,4 L11,5 C11,5.55 11.45,6 12,6 L18,6 L18,13 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Flag-/-Flag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#212121" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

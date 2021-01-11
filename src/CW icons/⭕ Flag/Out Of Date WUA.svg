@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Flag / Out Of Date WUA</title>
+    <defs>
+        <path d="M20,4 L19,4 L19,3 C19,2.45 18.55,2 18,2 C17.45,2 17,2.45 17,3 L17,4 L7,4 L7,3 C7,2.45 6.55,2 6,2 C5.45,2 5,2.45 5,3 L5,4 L4,4 C3.45,4 3,4.45 3,5 L3,20 C3,20.55 3.45,21 4,21 L20,21 C20.55,21 21,20.55 21,20 L21,5 C21,4.45 20.55,4 20,4 Z M5,19 L5,9 L19,9 L19,19 L5,19 Z M13,11.5 L13,13.5 C13,14.05 12.55,14.5 12,14.5 C11.45,14.5 11,14.05 11,13.5 L11,11.5 C11,10.95 11.45,10.5 12,10.5 C12.55,10.5 13,10.95 13,11.5 Z M13,16.5 C13,17.05 12.55,17.5 12,17.5 C11.45,17.5 11,17.05 11,16.5 C11,15.95 11.45,15.5 12,15.5 C12.55,15.5 13,15.95 13,16.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Flag-/-Out-Of-Date-WUA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

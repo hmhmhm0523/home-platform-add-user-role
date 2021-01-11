@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Status/Unknown</title>
+    <defs>
+        <path d="M13.45,18.55 C13.45,19.35 12.75,20 11.95,20 C11.1,20 10.45,19.35 10.45,18.55 C10.45,17.75 11.15,17.1 11.95,17.1 C12.8,17.1 13.45,17.75 13.45,18.55 Z M11.9,4 C9.65,4 7.65,5.35 6.8,7.6 C6.6,8.3 7.05,9 7.75,9.15 C8.45,9.3 9.15,8.95 9.35,8.3 C9.7,7.3 10.7,6.55 11.9,6.55 C13.35,6.55 14.6,7.7 14.6,9.15 C14.6,11.3 11.8,11.4 10.85,13.95 C10.65,14.65 11.05,15.35 11.75,15.55 C12.45,15.75 13.2,15.35 13.4,14.65 L13.4,14.65 C14.15,12.55 17.25,11.95 17.25,9.1 C17.25,6.3 14.85,4 11.9,4 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Status/Unknown" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

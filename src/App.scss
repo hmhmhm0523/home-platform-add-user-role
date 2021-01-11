@@ -1,6 +1,6 @@
 @import "variables.scss";
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 
 body {
   font-family: "Roboto", sans-serif;
@@ -25,9 +25,86 @@ body {
   height: 100%;
   width: 100%;
 
+  * {
+    box-sizing: border-box;
+  }
+
+  input {
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 13px 16px;
+    border: 1px solid $borderColor;
+
+    &:focus {
+      border-color: $primaryColor;
+      outline: none;
+    }
+  }
+
+  textarea {
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: 1px solid $borderColor;
+    height: 100px;
+    &:focus {
+      border-color: $primaryColor;
+      outline: none;
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    margin: 25px 0 8px 0;
+  }
+  p {
+    margin: 0 0 15px 0;
+  }
+
+  dl {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+
+    dt {
+      width: 100%;
+      margin-bottom: 4px;
+      > * {
+        width: 100%;
+      }
+    }
+
+    dd {
+      > * {
+        width: 100%;
+      }
+      width: 100%;
+      margin: 4px 0 15px 0;
+
+      &:last-child {
+        margin: 4px 0 0 0;
+      }
+    }
+  }
+
+  select {
+    padding: 3px 8px;
+    border-radius: 4px;
+    border: 1px solid $borderColor;
+
+    option {
+      padding: 4px;
+    }
+  }
+
   .NavigationAppContentWrapper {
     flex-grow: 1;
+  }
 
+  .HalfTransparent {
+    opacity: 0.5;
   }
 
   .Hidden {
@@ -36,6 +113,46 @@ body {
 
   .Spacer {
     flex-grow: 1;
+  }
+
+  .CollapsePanel {
+    &.Collapsed {
+      .CollapsePanelHeader {
+        border-bottom: 1px solid #e6e6e6;
+        padding: 24px 0;
+
+        .CollapseButton {
+          background-image: url("./CW icons/⭕ Action/Chevron Up.svg");
+        }
+      }
+      .CollapsePanelContent {
+        display: none;
+      }
+    }
+
+    .CollapsePanelHeader {
+      padding: 24px 0 0px 0;
+      display: flex;
+      align-items: center;
+
+      h4 {
+        margin: 0;
+      }
+      .CollapseButton {
+        cursor: pointer;
+        width: 40px;
+        height: 40px;
+        background-image: url("./CW\ icons/⭕ Action/Chevron Down.svg");
+        background-size: 24px;
+        background-repeat: no-repeat;
+        margin-right: 10px;
+        background-position: center;
+      }
+    }
+
+    .CollapsePanelContent {
+      border-bottom: 1px solid #e6e6e6;
+    }
   }
 
   button {
@@ -51,10 +168,49 @@ body {
     border-width: 2px;
     border-radius: 4px;
     border-color: $primaryColor;
+    min-width: 100px;
 
     &:hover {
       background-color: $primaryColor;
-      color: #FFFFFF;
+      color: #ffffff;
+    }
+
+    &.PrimaryButton {
+      background-color: $primaryColor;
+      color: #ffffff;
+      &:hover {
+        background-color: $secondaryColor;
+        color: #ffffff;
+      }
+    }
+  }
+
+  .AppLogo {
+    width: 40px;
+    height: 40px;
+    background-size: 40px;
+    background-repeat: no-repeat;
+    margin-right: 5px;
+    &.Control {
+      background-image: url("./Images/Control.svg");
+    }
+    &.University {
+      background-image: url("./Images/University.svg");
+    }
+    &.Sell {
+      background-image: url("./Images/Sell.svg");
+    }
+    &.Automate {
+      background-image: url("./Images/Automate.svg");
+    }
+    &.Command {
+      background-image: url("./Images/Command.svg");
+    }
+    &.Manage {
+      background-image: url("./Images/Manage.svg");
+    }
+    &.Marketplace {
+      background-image: url("./Images/Marketplace.svg");
     }
   }
 }

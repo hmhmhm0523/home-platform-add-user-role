@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Application / Opportunity</title>
+    <defs>
+        <path d="M19.5,5.5 L15.5,5.5 C14.35,5.5 13.25,5.9 12.4,6.6 C12,4.55 10.15,3 8,3 L4.5,3 C3.95,3 3.5,3.45 3.5,4 L3.5,7.5 C3.5,10 5.5,12 8,12 L10.5,12 L10.5,14.5 L10.5,14.7 L10.5,21 C10.5,21.55 10.95,22 11.5,22 C12.05,22 12.5,21.55 12.5,21 L12.5,15.5 L15.5,15.5 C18.25,15.5 20.5,13.25 20.5,10.5 L20.5,6.5 C20.5,5.95 20.05,5.5 19.5,5.5 Z M5.5,7.5 L5.5,5 L8,5 C9.4,5 10.5,6.1 10.5,7.5 L10.5,8.55 L9.25,7.25 C8.85,6.85 8.25,6.85 7.85,7.25 C7.45,7.65 7.45,8.25 7.85,8.65 L9.15,9.95 L8,9.95 C6.6,10 5.5,8.9 5.5,7.5 L5.5,7.5 Z M18.5,10.5 C18.5,12.15 17.15,13.5 15.5,13.5 L13.9,13.5 L16.2,11.2 C16.6,10.8 16.6,10.2 16.2,9.8 C15.8,9.4 15.2,9.4 14.8,9.8 L12.5,12.1 L12.5,10.5 C12.5,8.85 13.85,7.5 15.5,7.5 L18.5,7.5 L18.5,10.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Application-/-Opportunity" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

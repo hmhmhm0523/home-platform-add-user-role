@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Textbox</title>
+    <defs>
+        <path d="M22,3.42857143 L22,20.5714286 C22,21.3571429 21.3571429,22 20.5714286,22 L3.42857143,22 C2.64285714,22 2,21.3571429 2,20.5714286 L2,3.42857143 C2,2.64285714 2.64285714,2 3.42857143,2 L20.5714286,2 C21.3571429,2 22,2.64285714 22,3.42857143 Z M20,4 L4,4 L4,20 L20,20 L20,4 Z M16,9 C16,9.55 15.55,10 15,10 L13,10 L13,16 C13,16.55 12.55,17 12,17 C11.45,17 11,16.55 11,16 L11,10 L9,10 C8.45,10 8,9.55 8,9 C8,8.45 8.45,8 9,8 L15,8 C15.55,8 16,8.45 16,9 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Textbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

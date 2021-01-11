@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Decrease Text Size</title>
+    <defs>
+        <path d="M18,7 C18,8.1 17.1,9 16,9 L14,9 L14,17 C14,18.1 13.1,19 12,19 C10.9,19 10,18.1 10,17 L10,9 L8,9 C6.9,9 6,8.1 6,7 C6,5.9 6.9,5 8,5 L16,5 C17.1,5 18,5.9 18,7 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Decrease-Text-Size" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

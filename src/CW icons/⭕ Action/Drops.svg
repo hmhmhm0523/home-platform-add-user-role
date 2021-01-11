@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Drops</title>
+    <defs>
+        <path d="M9.7,7.7 L5.4,12 L9.7,16.3 C10.1,16.7 10.1,17.3 9.7,17.7 C9.5,17.9 9.25,18 9,18 C8.75,18 8.5,17.9 8.3,17.7 L3.3,12.7 C2.9,12.3 2.9,11.7 3.3,11.3 L8.3,6.3 C8.7,5.9 9.3,5.9 9.7,6.3 C10.1,6.7 10.1,7.3 9.7,7.7 Z M20.7,11.3 L15.7,6.3 C15.3,5.9 14.7,5.9 14.3,6.3 C13.9,6.7 13.9,7.3 14.3,7.7 L18.6,12 L14.3,16.3 C13.9,16.7 13.9,17.3 14.3,17.7 C14.5,17.9 14.75,18 15,18 C15.25,18 15.5,17.9 15.7,17.7 L20.7,12.7 C21.1,12.3 21.1,11.7 20.7,11.3 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Drops" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) " xlink:href="#path-1"></use>
+    </g>
+</svg>

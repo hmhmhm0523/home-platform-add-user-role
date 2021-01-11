@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Object/Device</title>
+    <defs>
+        <path d="M21,4 L3,4 C2.45,4 2,4.45 2,5 L2,18 C2,18.55 2.45,19 3,19 L11,19 L11,20 L9,20 C8.45,20 8,20.45 8,21 C8,21.55 8.45,22 9,22 L15,22 C15.55,22 16,21.55 16,21 C16,20.45 15.55,20 15,20 L13,20 L13,19 L21,19 C21.55,19 22,18.55 22,18 L22,5 C22,4.45 21.55,4 21,4 Z M20,17 L4,17 L4,6 L20,6 L20,17 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Object/Device" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

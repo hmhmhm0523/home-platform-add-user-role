@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Pause</title>
+    <defs>
+        <path d="M9,18 C7.9,18 7,17.1 7,16 L7,8 C7,6.9 7.9,6 9,6 C10.1,6 11,6.9 11,8 L11,16 C11,17.1 10.1,18 9,18 Z M17,16 L17,8 C17,6.9 16.1,6 15,6 C13.9,6 13,6.9 13,8 L13,16 C13,17.1 13.9,18 15,18 C16.1,18 17,17.1 17,16 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

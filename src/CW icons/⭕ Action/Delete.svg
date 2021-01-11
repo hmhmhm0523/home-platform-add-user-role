@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Delete</title>
+    <defs>
+        <path d="M5,6 L5,21 C5,21.55 5.45,22 6,22 L18,22 C18.55,22 19,21.55 19,21 L19,6 C19.55,6 20,5.55 20,5 C20,4.45 19.55,4 19,4 L15,4 L15,3 C15,2.45 14.55,2 14,2 L10,2 C9.45,2 9,2.45 9,3 L9,4 L5,4 C4.45,4 4,4.45 4,5 C4,5.55 4.45,6 5,6 Z M17,20 L7,20 L7,6 L17,6 L17,20 Z M11,9 L11,17 C11,17.55 10.55,18 10,18 C9.45,18 9,17.55 9,17 L9,9 C9,8.45 9.45,8 10,8 C10.55,8 11,8.45 11,9 Z M14,8 C14.55,8 15,8.45 15,9 L15,17 C15,17.55 14.55,18 14,18 C13.45,18 13,17.55 13,17 L13,9 C13,8.45 13.45,8 14,8 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

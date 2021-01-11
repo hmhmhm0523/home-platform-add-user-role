@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Application / Social-Facebook</title>
+    <defs>
+        <path d="M13.35,7.7 L14.75,7.7 L14.75,9.46 L13.65,9.46 C13.27,9.46 13.185,9.61 13.185,10.01 L13.185,10.985 L14.75,10.985 L14.6,12.685 L13.185,12.685 L13.185,17.75 L11.165,17.75 L11.165,12.7 L10.115,12.7 L10.115,10.985 L11.165,10.985 L11.165,9.635 C11.165,8.36 11.84,7.695 13.35,7.695 L13.35,7.7 Z M22.25,12.25 C22.25,17.765 17.765,22.25 12.25,22.25 C6.735,22.25 2.25,17.765 2.25,12.25 C2.25,6.735 6.735,2.25 12.25,2.25 C17.765,2.25 22.25,6.735 22.25,12.25 Z M20.25,12.25 C20.25,7.84 16.66,4.25 12.25,4.25 C7.84,4.25 4.25,7.84 4.25,12.25 C4.25,16.66 7.84,20.25 12.25,20.25 C16.66,20.25 20.25,16.66 20.25,12.25 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Application-/-Social-Facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

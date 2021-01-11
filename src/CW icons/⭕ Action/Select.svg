@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Select</title>
+    <defs>
+        <polygon id="path-1" points="10.44 13.265 8.555 11.38 6.67 13.265 9.5 16.1 10.44 17.035 17.04 10.435 15.15 8.555 10.44 13.27"></polygon>
+    </defs>
+    <g id="⭕-Action-/-Select" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

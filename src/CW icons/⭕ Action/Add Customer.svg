@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Add Customer</title>
+    <defs>
+        <path d="M22,10 C22,10.55 21.55,11 21,11 L19,11 L19,13 C19,13.55 18.55,14 18,14 C17.45,14 17,13.55 17,13 L17,11 L15,11 C14.45,11 14,10.55 14,10 C14,9.45 14.45,9 15,9 L17,9 L17,7 C17,6.45 17.45,6 18,6 C18.55,6 19,6.45 19,7 L19,9 L21,9 C21.55,9 22,9.45 22,10 Z M8.5,11 C10.45,11 12,9.45 12,7.5 C12,5.55 10.45,4 8.5,4 C6.55,4 5,5.55 5,7.5 C5,9.45 6.55,11 8.5,11 Z M8.5,13.05 C6.2,13.05 4,14.1 2.25,16.05 C2.1,16.25 2,16.5 2,16.75 L2,19.05 C2,19.6 2.45,20.05 3,20.05 L14,20.05 C14.55,20.05 15,19.6 15,19.05 L15,16.75 C15,16.5 14.9,16.25 14.75,16.1 C13,14.15 10.8,13.05 8.5,13.05 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Add-Customer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

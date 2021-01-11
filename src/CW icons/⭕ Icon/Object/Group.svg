@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Object/Group</title>
+    <defs>
+        <path d="M8,11 C6.35,11 5,9.65 5,8 C5,6.35 6.35,5 8,5 C9.65,5 11,6.35 11,8 C11,9.65 9.65,11 8,11 Z M3.25,14.45 C3.1,14.6 3,14.85 3,15.1 L3,18 C3,18.55 3.45,19 4,19 L12,19 C12.55,19 13,18.55 13,18 L13,15.1 C13,14.85 12.9,14.65 12.75,14.45 C11.45,12.85 9.75,12 8,12 C6.25,12 4.55,12.85 3.25,14.45 Z M16,5 C14.35,5 13,6.35 13,8 C13,9.65 14.35,11 16,11 C17.65,11 19,9.65 19,8 C19,6.35 17.65,5 16,5 Z M14.8,19 L20,19 C20.55,19 21,18.55 21,18 L21,15.1 C21,14.85 20.9,14.65 20.75,14.45 C19.45,12.85 17.75,12 16,12 C15.2,12 14.45,12.2 13.7,12.5 C13.9,12.7 14.1,12.95 14.3,13.15 C14.75,13.7 15,14.35 15,15.05 L15,18 C15,18.35 14.95,18.7 14.8,19 L14.8,19 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Object/Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

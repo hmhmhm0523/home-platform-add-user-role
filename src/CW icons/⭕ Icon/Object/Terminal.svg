@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Icon/Object/Terminal</title>
+    <defs>
+        <path d="M10.3,13.2 C10.6,13.5 10.6,13.95 10.3,14.25 L7.8,16.75 C7.65,16.9 7.45,16.95 7.25,16.95 C7.05,16.95 6.85,16.9 6.7,16.75 C6.4,16.45 6.4,16 6.7,15.7 L8.65,13.75 L6.7,11.8 C6.4,11.5 6.4,11.05 6.7,10.75 C7,10.45 7.45,10.45 7.75,10.75 L10.3,13.2 Z M16.75,15.5 L13.25,15.5 C12.85,15.5 12.5,15.85 12.5,16.25 C12.5,16.65 12.85,17 13.25,17 L16.75,17 C17.15,17 17.5,16.65 17.5,16.25 C17.5,15.85 17.15,15.5 16.75,15.5 Z M21,4 L21,20 C21,20.55 20.55,21 20,21 L4,21 C3.45,21 3,20.55 3,20 L3,4 C3,3.45 3.45,3 4,3 L20,3 C20.55,3 21,3.45 21,4 Z M5,5 L5,7 L19,7 L19,5 L5,5 Z M19,19 L19,9 L5,9 L5,19 L19,19 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Icon/Object/Terminal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#212121" xlink:href="#path-1"></use>
+    </g>
+</svg>

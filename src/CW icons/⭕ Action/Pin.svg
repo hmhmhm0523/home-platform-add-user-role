@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Pin</title>
+    <defs>
+        <path d="M21.7,10.3 L13.7,2.3 C13.4,2 13,1.9 12.6,2.1 C12.25,2.25 12,2.6 12,3 L12,5.6 L7.6,10 L5,10 C4.6,10 4.25,10.25 4.1,10.6 C3.9,11 4,11.4 4.3,11.7 L7.6,15 L3.3,19.3 C2.9,19.7 2.9,20.3 3.3,20.7 C3.5,20.9 3.75,21 4,21 C4.25,21 4.5,20.9 4.7,20.7 L9,16.4 L12.3,19.7 C12.5,19.9 12.75,20 13,20 C13.15,20 13.25,20 13.4,19.9 C13.75,19.75 14,19.4 14,19 L14,16.4 L18.4,12 L21,12 C21.4,12 21.75,11.75 21.9,11.4 C22.1,11 22,10.6 21.7,10.3 L21.7,10.3 Z M18,10 C17.75,10 17.5,10.1 17.3,10.3 L12.3,15.3 C12.1,15.5 12,15.75 12,16 L12,16.6 L7.4,12 L8,12 C8.25,12 8.5,11.9 8.7,11.7 L13.7,6.7 C13.9,6.5 14,6.25 14,6 L14,5.4 L18.6,10 L18,10 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

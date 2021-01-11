@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Save</title>
+    <defs>
+        <path d="M4,21 L20,21 C20.55,21 21,20.55 21,20 L21,7.5 C21,7.25 20.9,7 20.7,6.8 L17.2,3.3 C17,3.1 16.75,3 16.5,3 L4,3 C3.45,3 3,3.45 3,4 L3,20 C3,20.55 3.45,21 4,21 Z M9,5 L12,5 L12,7.5 L9,7.5 L9,5 Z M5,5 L7,5 L7,8.5 C7,9.05 7.45,9.5 8,9.5 L13,9.5 C13.55,9.5 14,9.05 14,8.5 L14,5 L16.1,5 L19,7.9 L19,19 L5,19 L5,5 Z M17,12.5 C17,13.05 16.55,13.5 16,13.5 L8,13.5 C7.45,13.5 7,13.05 7,12.5 C7,11.95 7.45,11.5 8,11.5 L16,11.5 C16.55,11.5 17,11.95 17,12.5 Z M17,16 C17,16.55 16.55,17 16,17 L8,17 C7.45,17 7,16.55 7,16 C7,15.45 7.45,15 8,15 L16,15 C16.55,15 17,15.45 17,16 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Save" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

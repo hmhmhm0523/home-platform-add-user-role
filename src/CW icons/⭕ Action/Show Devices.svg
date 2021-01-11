@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Action / Show Devices</title>
+    <defs>
+        <path d="M21,3 L3,3 C2.45,3 2,3.45 2,4 L2,18 C2,18.55 2.45,19 3,19 L11,19 L11,20 L9.5,20 C8.95,20 8.5,20.45 8.5,21 C8.5,21.55 8.95,22 9.5,22 L14.5,22 C15.05,22 15.5,21.55 15.5,21 C15.5,20.45 15.05,20 14.5,20 L13,20 L13,19 L20.95,19 L21,19 C21.55,19 22,18.55 22,18 L22,4 C22,3.45 21.55,3 21,3 Z M20,17 L4,17 L4,5 L20,5 L20,17 Z M7.3,9.7 C6.9,9.3 6.9,8.7 7.3,8.3 C7.7,7.9 8.3,7.9 8.7,8.3 L12,11.6 L15.3,8.3 C15.7,7.9 16.3,7.9 16.7,8.3 C17.1,8.7 17.1,9.3 16.7,9.7 L12.7,13.7 C12.5,13.9 12.25,14 12,14 C11.75,14 11.5,13.9 11.3,13.7 L7.3,9.7 L7.3,9.7 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Action-/-Show-Devices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>

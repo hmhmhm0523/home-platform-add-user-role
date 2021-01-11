@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>⭕ Application / Server Clipboard</title>
+    <defs>
+        <path d="M19,2 L5,2 C4.45,2 4,2.45 4,3 L4,21 C4,21.55 4.45,22 5,22 L19,22 C19.55,22 20,21.55 20,21 L20,3 C20,2.45 19.55,2 19,2 Z M18,20 L6,20 L6,4 L8,4 L8,5 C8,5.55 8.45,6 9,6 L15,6 C15.55,6 16,5.55 16,5 L16,4 L18,4 L18,20 Z M16,9.5 C16,10.05 15.55,10.5 15,10.5 L9,10.5 C8.45,10.5 8,10.05 8,9.5 C8,8.95 8.45,8.5 9,8.5 L15,8.5 C15.55,8.5 16,8.95 16,9.5 Z M16,13 C16,13.55 15.55,14 15,14 L9,14 C8.45,14 8,13.55 8,13 C8,12.45 8.45,12 9,12 L15,12 C15.55,12 16,12.45 16,13 Z M16,16.5 C16,17.05 15.55,17.5 15,17.5 L9,17.5 C8.45,17.5 8,17.05 8,16.5 C8,15.95 8.45,15.5 9,15.5 L15,15.5 C15.55,15.5 16,15.95 16,16.5 Z" id="path-1"></path>
+    </defs>
+    <g id="⭕-Application-/-Server-Clipboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Color" fill="#333333" xlink:href="#path-1"></use>
+    </g>
+</svg>
