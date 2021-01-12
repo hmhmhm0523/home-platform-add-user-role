@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/home-platform-add-user-role/static/css/main.a732ad1e.chunk.css",
-    "main.js": "/home-platform-add-user-role/static/js/main.d71257f2.chunk.js",
-    "main.js.map": "/home-platform-add-user-role/static/js/main.d71257f2.chunk.js.map",
+    "main.css": "/home-platform-add-user-role/static/css/main.86481612.chunk.css",
+    "main.js": "/home-platform-add-user-role/static/js/main.16db0330.chunk.js",
+    "main.js.map": "/home-platform-add-user-role/static/js/main.16db0330.chunk.js.map",
     "runtime-main.js": "/home-platform-add-user-role/static/js/runtime-main.cd03affd.js",
     "runtime-main.js.map": "/home-platform-add-user-role/static/js/runtime-main.cd03affd.js.map",
     "static/css/2.27175f2b.chunk.css": "/home-platform-add-user-role/static/css/2.27175f2b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1bd6e855.chunk.js.map": "/home-platform-add-user-role/static/js/3.1bd6e855.chunk.js.map",
     "index.html": "/home-platform-add-user-role/index.html",
     "static/css/2.27175f2b.chunk.css.map": "/home-platform-add-user-role/static/css/2.27175f2b.chunk.css.map",
-    "static/css/main.a732ad1e.chunk.css.map": "/home-platform-add-user-role/static/css/main.a732ad1e.chunk.css.map",
+    "static/css/main.86481612.chunk.css.map": "/home-platform-add-user-role/static/css/main.86481612.chunk.css.map",
     "static/js/2.ede59b1e.chunk.js.LICENSE.txt": "/home-platform-add-user-role/static/js/2.ede59b1e.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/home-platform-add-user-role/static/media/University.85138c31.svg",
     "static/media/ConnectWiseTable.styles.scss": "/home-platform-add-user-role/static/media/Chevron Right Small.1c49cecb.svg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.cd03affd.js",
     "static/css/2.27175f2b.chunk.css",
     "static/js/2.ede59b1e.chunk.js",
-    "static/css/main.a732ad1e.chunk.css",
-    "static/js/main.d71257f2.chunk.js"
+    "static/css/main.86481612.chunk.css",
+    "static/js/main.16db0330.chunk.js"
   ]
 }
