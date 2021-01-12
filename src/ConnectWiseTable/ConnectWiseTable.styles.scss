@@ -18,10 +18,34 @@
             }
         }
         tbody {
+            tr:nth-child(5n + 0) td:last-child {
+                background-image: url("../Images/LogoGroup5.svg");
+            }
+            tr:nth-child(5n + 1) td:last-child {
+                background-image: url("../Images/LogoGroup1.svg");
+            }
+            tr:nth-child(5n + 2) td:last-child {
+                background-image: url("../Images/LogoGroup2.svg");
+            }
+            tr:nth-child(5n + 3) td:last-child {
+                background-image: url("../Images/LogoGroup3.svg");
+            }
+            tr:nth-child(5n + 4) td:last-child {
+                background-image: url("../Images/LogoGroup4.svg");
+            }
+
             td {
                 border-top: 1px solid #e6e6e6;
 
                 padding: 12px 24px;
+
+                &:nth-child(5) {
+                    background-repeat: no-repeat;
+                    background-position: 24px 12px;
+                    text-indent: 200%;
+                    white-space: nowrap;
+                    overflow: hidden;
+                }
             }
         }
     }
@@ -42,12 +66,12 @@
             border: none;
             background-repeat: no-repeat;
             opacity: 0.6;
-            
+
             &:hover {
                 opacity: 1;
                 background-color: transparent;
             }
-            &:disabled{
+            &:disabled {
                 opacity: 0.2;
             }
             &.PreviousPageButton {
