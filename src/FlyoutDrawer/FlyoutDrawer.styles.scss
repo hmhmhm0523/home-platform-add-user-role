@@ -19,6 +19,11 @@
     flex-direction: column;
     align-items: flex-end;
 
+    &.HiddeBackground {
+        background-color: transparent;
+        pointer-events: none;
+    }
+
     .FlyoutDrawer-container {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -81,7 +86,7 @@
         }
 
         .FlyoutDrawer-footer {
-            box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -97,11 +102,43 @@
         animation-name: animation-fadeInRight;
     }
 
+    .animation-fadeOutRight {
+        -webkit-animation-name: animation-fadeOutRight;
+        animation-name: animation-fadeOutRight;
+    }
+
     .animation-animated,
     .animation-fast {
         -webkit-animation-duration: 0.5s;
         animation-duration: 0.5s;
         -webkit-animation-fill-mode: both;
         animation-fill-mode: both;
+    }
+}
+
+@keyframes animation-fadeInRight {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes animation-fadeOutRight {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+@keyframes animation-fadeOut {
+    0% {
+        background-color: black;
+    }
+    100% {
+        background-color: transparent;
     }
 }

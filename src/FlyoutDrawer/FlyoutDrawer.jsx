@@ -37,7 +37,9 @@ class FlyoutDrawer extends PureComponent {
   }
 
   handleCloseButtonClicked() {
-    document.querySelector('.FlyoutDrawerWrapper').classList.add('Hidden');
+    document.querySelector('.FlyoutDrawer-container').classList.remove('animation-fadeInRight');
+    document.querySelector('.FlyoutDrawer-container').classList.add('animation-fadeOutRight');
+    document.querySelector('.FlyoutDrawerWrapper').classList.add('HiddeBackground');
   }
 
   handleToggleExpand(event) {
@@ -206,7 +208,7 @@ pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus.<
             </section>
           </div>
           <div className="FlyoutDrawer-footer">
-            <button className="SecondaryButton">Cancel</button>
+            <button onClick={this.handleCloseButtonClicked} className="SecondaryButton">Cancel</button>
             <button className="PrimaryButton">Save</button>
           </div>
         </article>

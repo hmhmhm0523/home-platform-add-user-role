@@ -119,7 +119,7 @@ body {
     &.Collapsed {
       .CollapsePanelHeader {
         border-bottom: 1px solid #e6e6e6;
-        padding: 24px 0;
+        padding: 20px 0;
 
         .CollapseButton {
           background-image: url("./CW icons/⭕ Action/Chevron Up.svg");
@@ -131,7 +131,7 @@ body {
     }
 
     .CollapsePanelHeader {
-      padding: 24px 0 0px 0;
+      padding: 20px 0 0px 0;
       display: flex;
       align-items: center;
 
