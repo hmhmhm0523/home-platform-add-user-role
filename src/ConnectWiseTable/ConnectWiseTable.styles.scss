@@ -1,6 +1,7 @@
 .ConnectWiseTableWrapper {
     table {
         width: 100%;
+
         thead {
             border-bottom: 1px solid #e6e6e6;
             -webkit-box-sizing: border-box;
@@ -10,6 +11,7 @@
             font-size: 14px;
             height: 48px;
             text-transform: uppercase;
+
             tr {
                 text-align: left;
                 th {
@@ -17,6 +19,7 @@
                 }
             }
         }
+
         tbody {
             tr:nth-child(5n + 0) td:last-child {
                 background-image: url("../Images/LogoGroup5.svg");
@@ -36,7 +39,6 @@
 
             td {
                 border-top: 1px solid #e6e6e6;
-
                 padding: 12px 24px;
 
                 &:nth-child(5) {
@@ -49,6 +51,7 @@
             }
         }
     }
+    
     .Pagination {
         display: flex;
         align-items: center;

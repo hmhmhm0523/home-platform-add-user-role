@@ -1,6 +1,7 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
 import './FlyoutDrawer.styles.scss';
+import CheckBoxList from '../CheckBoxList/CheckBoxList';
 //import { Test } from './FlyoutDrawer.styles';
 
 class FlyoutDrawer extends PureComponent {
@@ -97,8 +98,9 @@ pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus.<
                     <a className="CollapseButton" onClick={this.handleToggleExpand}></a>
                   </div>
                   <div className="CollapsePanelContent">
+                    <CheckBoxList></CheckBoxList>
                     <ul>
-                      <li>Super Admin</li>
+                      <li>asfdasdf</li>
                       <li>MP Sales Management</li>
                     </ul>
                   </div>
